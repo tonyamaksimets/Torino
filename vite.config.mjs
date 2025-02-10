@@ -52,5 +52,5 @@ export default defineConfig({
   build: {
     outDir: 'docs'
   },
-  base: '/Torino/',
+  base: 'https://tonyamaksimets.github.io/Torino',
 })
