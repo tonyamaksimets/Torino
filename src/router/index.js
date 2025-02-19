@@ -6,7 +6,7 @@
  */
 
 // Composables
-import { createRouter, createWebHistory } from 'vue-router/auto'
+import { createRouter } from 'vue-router/auto'
 import { routes } from 'vue-router/auto-routes'
 
 console.log(routes);

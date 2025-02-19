@@ -23,7 +23,7 @@
 <script setup>
 import ClothesMenu from "@/components/ClothesMenu.vue";
 
-const params = new URL(document.location.href).searchParams;
+const params = new URL(document?.location.href).searchParams;
 const style = params.get('style');
 
 const styles = {
