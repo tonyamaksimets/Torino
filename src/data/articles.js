@@ -1,7 +1,7 @@
 export const womanClothes = [
   {
       "article": 49632171,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/blouse.png",
+      "image": "/assets/images/woman/blouse.png",
       "category": "blouse",
       "style": "newmoney",
       "price": 3217,
@@ -9,7 +9,7 @@ export const womanClothes = [
   },
   {
       "article": 29851099,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "newmoney",
       "price": 2282,
@@ -17,7 +17,7 @@ export const womanClothes = [
   },
   {
       "article": 60548396,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "newmoney",
       "price": 1583,
@@ -25,7 +25,7 @@ export const womanClothes = [
   },
   {
       "article": 66459764,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "minimalism",
       "price": 3612,
@@ -33,7 +33,7 @@ export const womanClothes = [
   },
   {
       "article": 43575115,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "classic",
       "price": 2055,
@@ -41,7 +41,7 @@ export const womanClothes = [
   },
   {
       "article": 27320122,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "classic",
       "price": 3348,
@@ -49,7 +49,7 @@ export const womanClothes = [
   },
   {
       "article": 63899613,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "minimalism",
       "price": 1136,
@@ -57,7 +57,7 @@ export const womanClothes = [
   },
   {
       "article": 41056730,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "classic",
       "price": 3701,
@@ -65,7 +65,7 @@ export const womanClothes = [
   },
   {
       "article": 59346165,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "minimalism",
       "price": 1698,
@@ -73,7 +73,7 @@ export const womanClothes = [
   },
   {
       "article": 60275492,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "newmoney",
       "price": 553,
@@ -81,7 +81,7 @@ export const womanClothes = [
   },
   {
       "article": 44212527,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "oldmoney",
       "price": 2223,
@@ -89,7 +89,7 @@ export const womanClothes = [
   },
   {
       "article": 23932570,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "newmoney",
       "price": 3256,
@@ -97,7 +97,7 @@ export const womanClothes = [
   },
   {
       "article": 80281393,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "oldmoney",
       "price": 5095,
@@ -105,7 +105,7 @@ export const womanClothes = [
   },
   {
       "article": 13483847,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "artdeco",
       "price": 4309,
@@ -113,7 +113,7 @@ export const womanClothes = [
   },
   {
       "article": 11217430,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "minimalism",
       "price": 5956,
@@ -121,7 +121,7 @@ export const womanClothes = [
   },
   {
       "article": 12744144,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "artdeco",
       "price": 5974,
@@ -129,7 +129,7 @@ export const womanClothes = [
   },
   {
       "article": 97698763,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "minimalism",
       "price": 2548,
@@ -137,7 +137,7 @@ export const womanClothes = [
   },
   {
       "article": 39434725,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "artdeco",
       "price": 5839,
@@ -145,7 +145,7 @@ export const womanClothes = [
   },
   {
       "article": 30276456,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "classic",
       "price": 5405,
@@ -153,7 +153,7 @@ export const womanClothes = [
   },
   {
       "article": 54180194,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "classic",
       "price": 5822,
@@ -161,7 +161,7 @@ export const womanClothes = [
   },
   {
       "article": 38041000,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "artdeco",
       "price": 1316,
@@ -169,7 +169,7 @@ export const womanClothes = [
   },
   {
       "article": 20870867,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "oldmoney",
       "price": 2988,
@@ -177,7 +177,7 @@ export const womanClothes = [
   },
   {
       "article": 28992914,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "oldmoney",
       "price": 606,
@@ -185,7 +185,7 @@ export const womanClothes = [
   },
   {
       "article": 80208090,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "oldmoney",
       "price": 802,
@@ -193,7 +193,7 @@ export const womanClothes = [
   },
   {
       "article": 69596239,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "minimalism",
       "price": 979,
@@ -201,7 +201,7 @@ export const womanClothes = [
   },
   {
       "article": 32272573,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "newmoney",
       "price": 1579,
@@ -209,7 +209,7 @@ export const womanClothes = [
   },
   {
       "article": 33046532,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "newmoney",
       "price": 3041,
@@ -217,7 +217,7 @@ export const womanClothes = [
   },
   {
       "article": 91018711,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "artdeco",
       "price": 2392,
@@ -225,7 +225,7 @@ export const womanClothes = [
   },
   {
       "article": 74953504,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "artdeco",
       "price": 782,
@@ -233,7 +233,7 @@ export const womanClothes = [
   },
   {
       "article": 37950761,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "artdeco",
       "price": 3493,
@@ -241,7 +241,7 @@ export const womanClothes = [
   },
   {
       "article": 20716660,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "oldmoney",
       "price": 4990,
@@ -249,7 +249,7 @@ export const womanClothes = [
   },
   {
       "article": 47827413,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "newmoney",
       "price": 3358,
@@ -257,7 +257,7 @@ export const womanClothes = [
   },
   {
       "article": 19295318,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "artdeco",
       "price": 3853,
@@ -265,7 +265,7 @@ export const womanClothes = [
   },
   {
       "article": 20486706,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "minimalism",
       "price": 3700,
@@ -273,7 +273,7 @@ export const womanClothes = [
   },
   {
       "article": 86548185,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "newmoney",
       "price": 4274,
@@ -281,7 +281,7 @@ export const womanClothes = [
   },
   {
       "article": 54400753,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "minimalism",
       "price": 3601,
@@ -289,7 +289,7 @@ export const womanClothes = [
   },
   {
       "article": 92647380,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "artdeco",
       "price": 1773,
@@ -297,7 +297,7 @@ export const womanClothes = [
   },
   {
       "article": 75874441,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "newmoney",
       "price": 5747,
@@ -305,7 +305,7 @@ export const womanClothes = [
   },
   {
       "article": 70614755,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/blouse.png",
+      "image": "/assets/images/woman/blouse.png",
       "category": "blouse",
       "style": "artdeco",
       "price": 1648,
@@ -313,7 +313,7 @@ export const womanClothes = [
   },
   {
       "article": 35236765,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "classic",
       "price": 1482,
@@ -321,7 +321,7 @@ export const womanClothes = [
   },
   {
       "article": 71853612,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "minimalism",
       "price": 4351,
@@ -329,7 +329,7 @@ export const womanClothes = [
   },
   {
       "article": 69482923,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "artdeco",
       "price": 5500,
@@ -337,7 +337,7 @@ export const womanClothes = [
   },
   {
       "article": 81753750,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "newmoney",
       "price": 1914,
@@ -345,7 +345,7 @@ export const womanClothes = [
   },
   {
       "article": 41600681,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/vest.png",
+      "image": "/assets/images/woman/vest.png",
       "category": "vest",
       "style": "oldmoney",
       "price": 1531,
@@ -353,7 +353,7 @@ export const womanClothes = [
   },
   {
       "article": 81991214,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "classic",
       "price": 3864,
@@ -361,7 +361,7 @@ export const womanClothes = [
   },
   {
       "article": 16967773,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "newmoney",
       "price": 579,
@@ -369,7 +369,7 @@ export const womanClothes = [
   },
   {
       "article": 53555303,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "newmoney",
       "price": 4579,
@@ -377,7 +377,7 @@ export const womanClothes = [
   },
   {
       "article": 44849182,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "minimalism",
       "price": 5879,
@@ -385,7 +385,7 @@ export const womanClothes = [
   },
   {
       "article": 63785363,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "oldmoney",
       "price": 2237,
@@ -393,7 +393,7 @@ export const womanClothes = [
   },
   {
       "article": 30280491,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "artdeco",
       "price": 3012,
@@ -401,7 +401,7 @@ export const womanClothes = [
   },
   {
       "article": 68757819,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "oldmoney",
       "price": 3156,
@@ -409,7 +409,7 @@ export const womanClothes = [
   },
   {
       "article": 55740903,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "minimalism",
       "price": 1234,
@@ -417,7 +417,7 @@ export const womanClothes = [
   },
   {
       "article": 37735792,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "minimalism",
       "price": 5583,
@@ -425,7 +425,7 @@ export const womanClothes = [
   },
   {
       "article": 24514951,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "artdeco",
       "price": 3375,
@@ -433,7 +433,7 @@ export const womanClothes = [
   },
   {
       "article": 55370021,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/blouse.png",
+      "image": "/assets/images/woman/blouse.png",
       "category": "blouse",
       "style": "oldmoney",
       "price": 5690,
@@ -441,7 +441,7 @@ export const womanClothes = [
   },
   {
       "article": 55644769,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "classic",
       "price": 5097,
@@ -449,7 +449,7 @@ export const womanClothes = [
   },
   {
       "article": 71528215,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/blouse.png",
+      "image": "/assets/images/woman/blouse.png",
       "category": "blouse",
       "style": "classic",
       "price": 4681,
@@ -457,7 +457,7 @@ export const womanClothes = [
   },
   {
       "article": 19685188,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "newmoney",
       "price": 1948,
@@ -465,7 +465,7 @@ export const womanClothes = [
   },
   {
       "article": 85498760,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "classic",
       "price": 2091,
@@ -473,7 +473,7 @@ export const womanClothes = [
   },
   {
       "article": 33791871,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "newmoney",
       "price": 4032,
@@ -481,7 +481,7 @@ export const womanClothes = [
   },
   {
       "article": 70246220,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "oldmoney",
       "price": 1101,
@@ -489,7 +489,7 @@ export const womanClothes = [
   },
   {
       "article": 99521284,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sweater.png",
+      "image": "/assets/images/woman/sweater.png",
       "category": "sweater",
       "style": "artdeco",
       "price": 3722,
@@ -497,7 +497,7 @@ export const womanClothes = [
   },
   {
       "article": 45500126,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jacket.png",
+      "image": "/assets/images/woman/jacket.png",
       "category": "jacket",
       "style": "minimalism",
       "price": 4117,
@@ -505,7 +505,7 @@ export const womanClothes = [
   },
   {
       "article": 89763955,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/vest.png",
+      "image": "/assets/images/woman/vest.png",
       "category": "vest",
       "style": "artdeco",
       "price": 5479,
@@ -513,7 +513,7 @@ export const womanClothes = [
   },
   {
       "article": 37282139,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "minimalism",
       "price": 837,
@@ -521,7 +521,7 @@ export const womanClothes = [
   },
   {
       "article": 45995674,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/vest.png",
+      "image": "/assets/images/woman/vest.png",
       "category": "vest",
       "style": "classic",
       "price": 3500,
@@ -529,7 +529,7 @@ export const womanClothes = [
   },
   {
       "article": 92115200,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "newmoney",
       "price": 2031,
@@ -537,7 +537,7 @@ export const womanClothes = [
   },
   {
       "article": 11363566,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "minimalism",
       "price": 5321,
@@ -545,7 +545,7 @@ export const womanClothes = [
   },
   {
       "article": 54790344,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "minimalism",
       "price": 1374,
@@ -553,7 +553,7 @@ export const womanClothes = [
   },
   {
       "article": 96115903,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "minimalism",
       "price": 2861,
@@ -561,7 +561,7 @@ export const womanClothes = [
   },
   {
       "article": 90165529,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "minimalism",
       "price": 953,
@@ -569,7 +569,7 @@ export const womanClothes = [
   },
   {
       "article": 91159522,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/turtleneck.png",
+      "image": "/assets/images/woman/turtleneck.png",
       "category": "turtleneck",
       "style": "newmoney",
       "price": 2817,
@@ -577,7 +577,7 @@ export const womanClothes = [
   },
   {
       "article": 40136418,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "newmoney",
       "price": 2676,
@@ -585,7 +585,7 @@ export const womanClothes = [
   },
   {
       "article": 71689317,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "newmoney",
       "price": 4119,
@@ -593,7 +593,7 @@ export const womanClothes = [
   },
   {
       "article": 68538115,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "minimalism",
       "price": 2548,
@@ -601,7 +601,7 @@ export const womanClothes = [
   },
   {
       "article": 27804861,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "newmoney",
       "price": 5035,
@@ -609,7 +609,7 @@ export const womanClothes = [
   },
   {
       "article": 43157589,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/vest.png",
+      "image": "/assets/images/woman/vest.png",
       "category": "vest",
       "style": "classic",
       "price": 628,
@@ -617,7 +617,7 @@ export const womanClothes = [
   },
   {
       "article": 61688471,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "artdeco",
       "price": 3822,
@@ -625,7 +625,7 @@ export const womanClothes = [
   },
   {
       "article": 41421603,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "newmoney",
       "price": 5823,
@@ -633,7 +633,7 @@ export const womanClothes = [
   },
   {
       "article": 41340724,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "artdeco",
       "price": 5290,
@@ -641,7 +641,7 @@ export const womanClothes = [
   },
   {
       "article": 61500798,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/vest.png",
+      "image": "/assets/images/woman/vest.png",
       "category": "vest",
       "style": "newmoney",
       "price": 1132,
@@ -649,7 +649,7 @@ export const womanClothes = [
   },
   {
       "article": 13296518,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "minimalism",
       "price": 2733,
@@ -657,7 +657,7 @@ export const womanClothes = [
   },
   {
       "article": 11856401,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "artdeco",
       "price": 1681,
@@ -665,7 +665,7 @@ export const womanClothes = [
   },
   {
       "article": 23364573,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/vest.png",
+      "image": "/assets/images/woman/vest.png",
       "category": "vest",
       "style": "artdeco",
       "price": 3591,
@@ -673,7 +673,7 @@ export const womanClothes = [
   },
   {
       "article": 62733789,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/blouse.png",
+      "image": "/assets/images/woman/blouse.png",
       "category": "blouse",
       "style": "classic",
       "price": 1960,
@@ -681,7 +681,7 @@ export const womanClothes = [
   },
   {
       "article": 81453377,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "oldmoney",
       "price": 3020,
@@ -689,7 +689,7 @@ export const womanClothes = [
   },
   {
       "article": 26713830,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "classic",
       "price": 5562,
@@ -697,7 +697,7 @@ export const womanClothes = [
   },
   {
       "article": 95364575,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "newmoney",
       "price": 2506,
@@ -705,7 +705,7 @@ export const womanClothes = [
   },
   {
       "article": 12440131,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "oldmoney",
       "price": 4462,
@@ -713,7 +713,7 @@ export const womanClothes = [
   },
   {
       "article": 15499011,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "minimalism",
       "price": 2296,
@@ -721,7 +721,7 @@ export const womanClothes = [
   },
   {
       "article": 92714052,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "oldmoney",
       "price": 2008,
@@ -729,7 +729,7 @@ export const womanClothes = [
   },
   {
       "article": 14166854,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "minimalism",
       "price": 5707,
@@ -737,7 +737,7 @@ export const womanClothes = [
   },
   {
       "article": 94521913,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/trousers.png",
+      "image": "/assets/images/woman/trousers.png",
       "category": "trousers",
       "style": "minimalism",
       "price": 4575,
@@ -745,7 +745,7 @@ export const womanClothes = [
   },
   {
       "article": 57274249,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "artdeco",
       "price": 5785,
@@ -753,7 +753,7 @@ export const womanClothes = [
   },
   {
       "article": 88703497,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/jeans.png",
+      "image": "/assets/images/woman/jeans.png",
       "category": "jeans",
       "style": "artdeco",
       "price": 754,
@@ -761,7 +761,7 @@ export const womanClothes = [
   },
   {
       "article": 96699172,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/skirt.png",
+      "image": "/assets/images/woman/skirt.png",
       "category": "skirt",
       "style": "minimalism",
       "price": 4213,
@@ -769,7 +769,7 @@ export const womanClothes = [
   },
   {
       "article": 65412924,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "newmoney",
       "price": 3577,
@@ -777,7 +777,7 @@ export const womanClothes = [
   },
   {
       "article": 64038614,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/blouse.png",
+      "image": "/assets/images/woman/blouse.png",
       "category": "blouse",
       "style": "newmoney",
       "price": 4052,
@@ -785,7 +785,7 @@ export const womanClothes = [
   },
   {
       "article": 80432821,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/dress.png",
+      "image": "/assets/images/woman/dress.png",
       "category": "dress",
       "style": "classic",
       "price": 4794,
@@ -793,7 +793,7 @@ export const womanClothes = [
   },
   {
       "article": 13987220,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/suit.png",
+      "image": "/assets/images/woman/suit.png",
       "category": "suit",
       "style": "newmoney",
       "price": 1341,
@@ -804,7 +804,7 @@ export const womanClothes = [
 export const womanShoes = [
   {
       "article": 16043152,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "artdeco",
       "price": 3752,
@@ -812,7 +812,7 @@ export const womanShoes = [
   },
   {
       "article": 29926347,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "artdeco",
       "price": 5276,
@@ -820,7 +820,7 @@ export const womanShoes = [
   },
   {
       "article": 86029740,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "classic",
       "price": 5693,
@@ -828,7 +828,7 @@ export const womanShoes = [
   },
   {
       "article": 25541586,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 4989,
@@ -836,7 +836,7 @@ export const womanShoes = [
   },
   {
       "article": 83107974,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "oldmoney",
       "price": 1433,
@@ -844,7 +844,7 @@ export const womanShoes = [
   },
   {
       "article": 58244572,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "newmoney",
       "price": 718,
@@ -852,7 +852,7 @@ export const womanShoes = [
   },
   {
       "article": 86761980,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "minimalism",
       "price": 2003,
@@ -860,7 +860,7 @@ export const womanShoes = [
   },
   {
       "article": 58716335,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "classic",
       "price": 4017,
@@ -868,7 +868,7 @@ export const womanShoes = [
   },
   {
       "article": 11972203,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "minimalism",
       "price": 4944,
@@ -876,7 +876,7 @@ export const womanShoes = [
   },
   {
       "article": 43708531,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "artdeco",
       "price": 2113,
@@ -884,7 +884,7 @@ export const womanShoes = [
   },
   {
       "article": 57305087,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 4840,
@@ -892,7 +892,7 @@ export const womanShoes = [
   },
   {
       "article": 12567913,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "artdeco",
       "price": 4573,
@@ -900,7 +900,7 @@ export const womanShoes = [
   },
   {
       "article": 16355282,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "oldmoney",
       "price": 3831,
@@ -908,7 +908,7 @@ export const womanShoes = [
   },
   {
       "article": 18150206,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "oldmoney",
       "price": 2858,
@@ -916,7 +916,7 @@ export const womanShoes = [
   },
   {
       "article": 99773237,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "oldmoney",
       "price": 5028,
@@ -924,7 +924,7 @@ export const womanShoes = [
   },
   {
       "article": 57279242,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "minimalism",
       "price": 2915,
@@ -932,7 +932,7 @@ export const womanShoes = [
   },
   {
       "article": 71047622,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "minimalism",
       "price": 1768,
@@ -940,7 +940,7 @@ export const womanShoes = [
   },
   {
       "article": 98962263,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "minimalism",
       "price": 623,
@@ -948,7 +948,7 @@ export const womanShoes = [
   },
   {
       "article": 60795114,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "oldmoney",
       "price": 1301,
@@ -956,7 +956,7 @@ export const womanShoes = [
   },
   {
       "article": 24411172,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "oldmoney",
       "price": 3314,
@@ -964,7 +964,7 @@ export const womanShoes = [
   },
   {
       "article": 21609856,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "minimalism",
       "price": 2378,
@@ -972,7 +972,7 @@ export const womanShoes = [
   },
   {
       "article": 42737770,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "oldmoney",
       "price": 4669,
@@ -980,7 +980,7 @@ export const womanShoes = [
   },
   {
       "article": 70022716,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "minimalism",
       "price": 1593,
@@ -988,7 +988,7 @@ export const womanShoes = [
   },
   {
       "article": 58740639,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "artdeco",
       "price": 2409,
@@ -996,7 +996,7 @@ export const womanShoes = [
   },
   {
       "article": 44513406,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "oldmoney",
       "price": 3518,
@@ -1004,7 +1004,7 @@ export const womanShoes = [
   },
   {
       "article": 93712363,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 836,
@@ -1012,7 +1012,7 @@ export const womanShoes = [
   },
   {
       "article": 29457100,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "newmoney",
       "price": 2318,
@@ -1020,7 +1020,7 @@ export const womanShoes = [
   },
   {
       "article": 15202162,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "newmoney",
       "price": 618,
@@ -1028,7 +1028,7 @@ export const womanShoes = [
   },
   {
       "article": 10870419,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "classic",
       "price": 2552,
@@ -1036,7 +1036,7 @@ export const womanShoes = [
   },
   {
       "article": 32896871,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "oldmoney",
       "price": 4932,
@@ -1044,7 +1044,7 @@ export const womanShoes = [
   },
   {
       "article": 52886065,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "artdeco",
       "price": 2047,
@@ -1052,7 +1052,7 @@ export const womanShoes = [
   },
   {
       "article": 54425956,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "artdeco",
       "price": 4849,
@@ -1060,7 +1060,7 @@ export const womanShoes = [
   },
   {
       "article": 19157981,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "artdeco",
       "price": 4857,
@@ -1068,7 +1068,7 @@ export const womanShoes = [
   },
   {
       "article": 77065942,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "artdeco",
       "price": 4773,
@@ -1076,7 +1076,7 @@ export const womanShoes = [
   },
   {
       "article": 28777335,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "classic",
       "price": 3620,
@@ -1084,7 +1084,7 @@ export const womanShoes = [
   },
   {
       "article": 92869930,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "oldmoney",
       "price": 4332,
@@ -1092,7 +1092,7 @@ export const womanShoes = [
   },
   {
       "article": 87147075,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "artdeco",
       "price": 1331,
@@ -1100,7 +1100,7 @@ export const womanShoes = [
   },
   {
       "article": 35547760,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "minimalism",
       "price": 1131,
@@ -1108,7 +1108,7 @@ export const womanShoes = [
   },
   {
       "article": 10637791,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 2031,
@@ -1116,7 +1116,7 @@ export const womanShoes = [
   },
   {
       "article": 89254638,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 3652,
@@ -1124,7 +1124,7 @@ export const womanShoes = [
   },
   {
       "article": 87628464,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "newmoney",
       "price": 4341,
@@ -1132,7 +1132,7 @@ export const womanShoes = [
   },
   {
       "article": 61360084,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "minimalism",
       "price": 3029,
@@ -1140,7 +1140,7 @@ export const womanShoes = [
   },
   {
       "article": 81622361,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "newmoney",
       "price": 4924,
@@ -1148,7 +1148,7 @@ export const womanShoes = [
   },
   {
       "article": 96666763,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "oldmoney",
       "price": 5039,
@@ -1156,7 +1156,7 @@ export const womanShoes = [
   },
   {
       "article": 92443429,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "newmoney",
       "price": 5258,
@@ -1164,7 +1164,7 @@ export const womanShoes = [
   },
   {
       "article": 68597261,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "classic",
       "price": 5482,
@@ -1172,7 +1172,7 @@ export const womanShoes = [
   },
   {
       "article": 23582919,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "minimalism",
       "price": 3409,
@@ -1180,7 +1180,7 @@ export const womanShoes = [
   },
   {
       "article": 57842963,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "classic",
       "price": 2913,
@@ -1188,7 +1188,7 @@ export const womanShoes = [
   },
   {
       "article": 44033158,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "classic",
       "price": 2836,
@@ -1196,7 +1196,7 @@ export const womanShoes = [
   },
   {
       "article": 93047614,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "minimalism",
       "price": 1190,
@@ -1204,7 +1204,7 @@ export const womanShoes = [
   },
   {
       "article": 96699710,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "classic",
       "price": 2236,
@@ -1212,7 +1212,7 @@ export const womanShoes = [
   },
   {
       "article": 42687824,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 1952,
@@ -1220,7 +1220,7 @@ export const womanShoes = [
   },
   {
       "article": 54595298,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "classic",
       "price": 2965,
@@ -1228,7 +1228,7 @@ export const womanShoes = [
   },
   {
       "article": 45582679,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "minimalism",
       "price": 910,
@@ -1236,7 +1236,7 @@ export const womanShoes = [
   },
   {
       "article": 46371023,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "classic",
       "price": 4715,
@@ -1244,7 +1244,7 @@ export const womanShoes = [
   },
   {
       "article": 18531172,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "artdeco",
       "price": 1832,
@@ -1252,7 +1252,7 @@ export const womanShoes = [
   },
   {
       "article": 34998252,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "classic",
       "price": 1018,
@@ -1260,7 +1260,7 @@ export const womanShoes = [
   },
   {
       "article": 62085533,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "artdeco",
       "price": 600,
@@ -1268,7 +1268,7 @@ export const womanShoes = [
   },
   {
       "article": 48875282,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "classic",
       "price": 881,
@@ -1276,7 +1276,7 @@ export const womanShoes = [
   },
   {
       "article": 62542903,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "classic",
       "price": 1101,
@@ -1284,7 +1284,7 @@ export const womanShoes = [
   },
   {
       "article": 42868898,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "artdeco",
       "price": 1554,
@@ -1292,7 +1292,7 @@ export const womanShoes = [
   },
   {
       "article": 97731605,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "newmoney",
       "price": 5865,
@@ -1300,7 +1300,7 @@ export const womanShoes = [
   },
   {
       "article": 12387230,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "oldmoney",
       "price": 5185,
@@ -1308,7 +1308,7 @@ export const womanShoes = [
   },
   {
       "article": 92108304,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "classic",
       "price": 4286,
@@ -1316,7 +1316,7 @@ export const womanShoes = [
   },
   {
       "article": 60201327,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "classic",
       "price": 4907,
@@ -1324,7 +1324,7 @@ export const womanShoes = [
   },
   {
       "article": 36991547,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "newmoney",
       "price": 786,
@@ -1332,7 +1332,7 @@ export const womanShoes = [
   },
   {
       "article": 69983530,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "classic",
       "price": 3632,
@@ -1340,7 +1340,7 @@ export const womanShoes = [
   },
   {
       "article": 99281782,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "minimalism",
       "price": 5349,
@@ -1348,7 +1348,7 @@ export const womanShoes = [
   },
   {
       "article": 95023044,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "newmoney",
       "price": 1758,
@@ -1356,7 +1356,7 @@ export const womanShoes = [
   },
   {
       "article": 63702044,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "artdeco",
       "price": 5333,
@@ -1364,7 +1364,7 @@ export const womanShoes = [
   },
   {
       "article": 45495044,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "oldmoney",
       "price": 5875,
@@ -1372,7 +1372,7 @@ export const womanShoes = [
   },
   {
       "article": 93845024,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "minimalism",
       "price": 2069,
@@ -1380,7 +1380,7 @@ export const womanShoes = [
   },
   {
       "article": 25942625,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "artdeco",
       "price": 4672,
@@ -1388,7 +1388,7 @@ export const womanShoes = [
   },
   {
       "article": 33159360,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "oldmoney",
       "price": 2178,
@@ -1396,7 +1396,7 @@ export const womanShoes = [
   },
   {
       "article": 49210661,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "artdeco",
       "price": 5638,
@@ -1404,7 +1404,7 @@ export const womanShoes = [
   },
   {
       "article": 96463030,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "newmoney",
       "price": 4315,
@@ -1412,7 +1412,7 @@ export const womanShoes = [
   },
   {
       "article": 50104250,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "classic",
       "price": 5001,
@@ -1420,7 +1420,7 @@ export const womanShoes = [
   },
   {
       "article": 18080195,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "artdeco",
       "price": 4776,
@@ -1428,7 +1428,7 @@ export const womanShoes = [
   },
   {
       "article": 14510099,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "oldmoney",
       "price": 5019,
@@ -1436,7 +1436,7 @@ export const womanShoes = [
   },
   {
       "article": 92899395,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "oldmoney",
       "price": 5558,
@@ -1444,7 +1444,7 @@ export const womanShoes = [
   },
   {
       "article": 40780403,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "oldmoney",
       "price": 5155,
@@ -1452,7 +1452,7 @@ export const womanShoes = [
   },
   {
       "article": 80950188,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "classic",
       "price": 3893,
@@ -1460,7 +1460,7 @@ export const womanShoes = [
   },
   {
       "article": 81673468,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "classic",
       "price": 2341,
@@ -1468,7 +1468,7 @@ export const womanShoes = [
   },
   {
       "article": 48545566,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "newmoney",
       "price": 745,
@@ -1476,7 +1476,7 @@ export const womanShoes = [
   },
   {
       "article": 97240202,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "artdeco",
       "price": 5751,
@@ -1484,7 +1484,7 @@ export const womanShoes = [
   },
   {
       "article": 36428139,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "classic",
       "price": 4903,
@@ -1492,7 +1492,7 @@ export const womanShoes = [
   },
   {
       "article": 18267158,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/loafers.png",
+      "image": "/assets/images/woman/loafers.png",
       "category": "loafers",
       "style": "newmoney",
       "price": 3992,
@@ -1500,7 +1500,7 @@ export const womanShoes = [
   },
   {
       "article": 47851914,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/cossacks.png",
+      "image": "/assets/images/woman/cossacks.png",
       "category": "cossacks",
       "style": "oldmoney",
       "price": 5288,
@@ -1508,7 +1508,7 @@ export const womanShoes = [
   },
   {
       "article": 11320821,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/sneakers.png",
+      "image": "/assets/images/woman/sneakers.png",
       "category": "sneakers",
       "style": "classic",
       "price": 4201,
@@ -1516,7 +1516,7 @@ export const womanShoes = [
   },
   {
       "article": 22045539,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "classic",
       "price": 5342,
@@ -1524,7 +1524,7 @@ export const womanShoes = [
   },
   {
       "article": 35133185,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "classic",
       "price": 2951,
@@ -1532,7 +1532,7 @@ export const womanShoes = [
   },
   {
       "article": 42790017,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "minimalism",
       "price": 3028,
@@ -1540,7 +1540,7 @@ export const womanShoes = [
   },
   {
       "article": 47904573,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/heel.png",
+      "image": "/assets/images/woman/heel.png",
       "category": "heel",
       "style": "oldmoney",
       "price": 1834,
@@ -1548,7 +1548,7 @@ export const womanShoes = [
   },
   {
       "article": 45596730,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "minimalism",
       "price": 731,
@@ -1556,7 +1556,7 @@ export const womanShoes = [
   },
   {
       "article": 34083254,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/evening.png",
+      "image": "/assets/images/woman/evening.png",
       "category": "evening",
       "style": "minimalism",
       "price": 2364,
@@ -1564,7 +1564,7 @@ export const womanShoes = [
   },
   {
       "article": 31927470,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/ankle.png",
+      "image": "/assets/images/woman/ankle.png",
       "category": "ankle",
       "style": "minimalism",
       "price": 804,
@@ -1572,7 +1572,7 @@ export const womanShoes = [
   },
   {
       "article": 71216633,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "oldmoney",
       "price": 738,
@@ -1580,7 +1580,7 @@ export const womanShoes = [
   },
   {
       "article": 95020986,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "classic",
       "price": 2524,
@@ -1588,7 +1588,7 @@ export const womanShoes = [
   },
   {
       "article": 49945025,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/boots.png",
+      "image": "/assets/images/woman/boots.png",
       "category": "boots",
       "style": "minimalism",
       "price": 4512,
@@ -1596,7 +1596,7 @@ export const womanShoes = [
   },
   {
       "article": 82307066,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/shoes.png",
+      "image": "/assets/images/woman/shoes.png",
       "category": "shoes",
       "style": "minimalism",
       "price": 3518,
@@ -1607,7 +1607,7 @@ export const womanShoes = [
 export const womanAccessories = [
   {
       "article": 85655956,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "minimalism",
       "price": 2229,
@@ -1615,7 +1615,7 @@ export const womanAccessories = [
   },
   {
       "article": 78329133,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "newmoney",
       "price": 5940,
@@ -1623,7 +1623,7 @@ export const womanAccessories = [
   },
   {
       "article": 66911000,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "newmoney",
       "price": 5388,
@@ -1631,7 +1631,7 @@ export const womanAccessories = [
   },
   {
       "article": 77634570,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "artdeco",
       "price": 5901,
@@ -1639,7 +1639,7 @@ export const womanAccessories = [
   },
   {
       "article": 28167678,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "classic",
       "price": 4976,
@@ -1647,7 +1647,7 @@ export const womanAccessories = [
   },
   {
       "article": 48823114,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "minimalism",
       "price": 5509,
@@ -1655,7 +1655,7 @@ export const womanAccessories = [
   },
   {
       "article": 44708608,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "newmoney",
       "price": 891,
@@ -1663,7 +1663,7 @@ export const womanAccessories = [
   },
   {
       "article": 93629893,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "classic",
       "price": 4104,
@@ -1671,7 +1671,7 @@ export const womanAccessories = [
   },
   {
       "article": 17791888,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "classic",
       "price": 1599,
@@ -1679,7 +1679,7 @@ export const womanAccessories = [
   },
   {
       "article": 53577155,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "minimalism",
       "price": 1725,
@@ -1687,7 +1687,7 @@ export const womanAccessories = [
   },
   {
       "article": 29796679,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "newmoney",
       "price": 1544,
@@ -1695,7 +1695,7 @@ export const womanAccessories = [
   },
   {
       "article": 16339602,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "artdeco",
       "price": 2489,
@@ -1703,7 +1703,7 @@ export const womanAccessories = [
   },
   {
       "article": 60485710,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "classic",
       "price": 3270,
@@ -1711,7 +1711,7 @@ export const womanAccessories = [
   },
   {
       "article": 58303891,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "classic",
       "price": 4929,
@@ -1719,7 +1719,7 @@ export const womanAccessories = [
   },
   {
       "article": 15189933,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "artdeco",
       "price": 2481,
@@ -1727,7 +1727,7 @@ export const womanAccessories = [
   },
   {
       "article": 95458202,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "newmoney",
       "price": 5237,
@@ -1735,7 +1735,7 @@ export const womanAccessories = [
   },
   {
       "article": 52868795,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "minimalism",
       "price": 5612,
@@ -1743,7 +1743,7 @@ export const womanAccessories = [
   },
   {
       "article": 13019507,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "newmoney",
       "price": 2812,
@@ -1751,7 +1751,7 @@ export const womanAccessories = [
   },
   {
       "article": 41956458,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "minimalism",
       "price": 1938,
@@ -1759,7 +1759,7 @@ export const womanAccessories = [
   },
   {
       "article": 59572661,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "minimalism",
       "price": 2595,
@@ -1767,7 +1767,7 @@ export const womanAccessories = [
   },
   {
       "article": 33665699,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "classic",
       "price": 5722,
@@ -1775,7 +1775,7 @@ export const womanAccessories = [
   },
   {
       "article": 67095285,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "artdeco",
       "price": 5208,
@@ -1783,7 +1783,7 @@ export const womanAccessories = [
   },
   {
       "article": 15716508,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "artdeco",
       "price": 3302,
@@ -1791,7 +1791,7 @@ export const womanAccessories = [
   },
   {
       "article": 46145893,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "artdeco",
       "price": 1507,
@@ -1799,7 +1799,7 @@ export const womanAccessories = [
   },
   {
       "article": 45592916,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "newmoney",
       "price": 4906,
@@ -1807,7 +1807,7 @@ export const womanAccessories = [
   },
   {
       "article": 48203094,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "oldmoney",
       "price": 5322,
@@ -1815,7 +1815,7 @@ export const womanAccessories = [
   },
   {
       "article": 94117086,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "classic",
       "price": 3174,
@@ -1823,7 +1823,7 @@ export const womanAccessories = [
   },
   {
       "article": 81237975,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "artdeco",
       "price": 789,
@@ -1831,7 +1831,7 @@ export const womanAccessories = [
   },
   {
       "article": 21376469,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "oldmoney",
       "price": 3192,
@@ -1839,7 +1839,7 @@ export const womanAccessories = [
   },
   {
       "article": 61656270,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "classic",
       "price": 5656,
@@ -1847,7 +1847,7 @@ export const womanAccessories = [
   },
   {
       "article": 59208636,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "minimalism",
       "price": 2710,
@@ -1855,7 +1855,7 @@ export const womanAccessories = [
   },
   {
       "article": 90502563,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "newmoney",
       "price": 1419,
@@ -1863,7 +1863,7 @@ export const womanAccessories = [
   },
   {
       "article": 37399577,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "newmoney",
       "price": 4931,
@@ -1871,7 +1871,7 @@ export const womanAccessories = [
   },
   {
       "article": 33425183,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "oldmoney",
       "price": 3496,
@@ -1879,7 +1879,7 @@ export const womanAccessories = [
   },
   {
       "article": 73329862,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "oldmoney",
       "price": 5948,
@@ -1887,7 +1887,7 @@ export const womanAccessories = [
   },
   {
       "article": 25776572,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "classic",
       "price": 5998,
@@ -1895,7 +1895,7 @@ export const womanAccessories = [
   },
   {
       "article": 95289043,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "newmoney",
       "price": 3471,
@@ -1903,7 +1903,7 @@ export const womanAccessories = [
   },
   {
       "article": 17492401,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "oldmoney",
       "price": 1714,
@@ -1911,7 +1911,7 @@ export const womanAccessories = [
   },
   {
       "article": 58933878,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "newmoney",
       "price": 3243,
@@ -1919,7 +1919,7 @@ export const womanAccessories = [
   },
   {
       "article": 91153843,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "classic",
       "price": 1860,
@@ -1927,7 +1927,7 @@ export const womanAccessories = [
   },
   {
       "article": 74401755,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "newmoney",
       "price": 4067,
@@ -1935,7 +1935,7 @@ export const womanAccessories = [
   },
   {
       "article": 21581042,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "oldmoney",
       "price": 2822,
@@ -1943,7 +1943,7 @@ export const womanAccessories = [
   },
   {
       "article": 19219909,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "classic",
       "price": 3596,
@@ -1951,7 +1951,7 @@ export const womanAccessories = [
   },
   {
       "article": 52123630,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "minimalism",
       "price": 3724,
@@ -1959,7 +1959,7 @@ export const womanAccessories = [
   },
   {
       "article": 30178090,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/glasses.png",
+      "image": "/assets/images/woman/glasses.png",
       "category": "glasses",
       "style": "artdeco",
       "price": 5010,
@@ -1967,7 +1967,7 @@ export const womanAccessories = [
   },
   {
       "article": 87131850,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/decor.png",
+      "image": "/assets/images/woman/decor.png",
       "category": "decor",
       "style": "oldmoney",
       "price": 817,
@@ -1975,7 +1975,7 @@ export const womanAccessories = [
   },
   {
       "article": 81357053,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "classic",
       "price": 1084,
@@ -1983,7 +1983,7 @@ export const womanAccessories = [
   },
   {
       "article": 59247669,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "classic",
       "price": 1768,
@@ -1991,7 +1991,7 @@ export const womanAccessories = [
   },
   {
       "article": 91553732,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/bag.png",
+      "image": "/assets/images/woman/bag.png",
       "category": "bag",
       "style": "newmoney",
       "price": 2952,
@@ -1999,7 +1999,7 @@ export const womanAccessories = [
   },
   {
       "article": 71184288,
-      "image": "https://tonyamaksimets.github.io/Torino/assets/images/woman/hat.png",
+      "image": "/assets/images/woman/hat.png",
       "category": "hat",
       "style": "newmoney",
       "price": 3070,
