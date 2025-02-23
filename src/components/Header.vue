@@ -10,8 +10,6 @@
       </v-btn>
     </v-app-bar-title>
 
-    <v-spacer></v-spacer>
-
     <v-bottom-sheet
       v-if="!user"
       v-model="dialog"
@@ -28,13 +26,13 @@
           icon="mdi-close"
           @click="dialog = false"
         ></v-btn>
-        <Auth></Auth>
+        <Auth/>
       </div>
     </v-bottom-sheet>
     
     <div v-else>
-      <v-btn icon><v-icon>mdi-heart</v-icon></v-btn>
-      <v-btn icon><v-icon>mdi-cart</v-icon></v-btn>
+      <v-btn icon to="/favourite"><v-icon>mdi-heart</v-icon></v-btn>
+      <v-btn icon to="/cart"><v-icon>mdi-cart</v-icon></v-btn>
       <v-btn
         icon
         to="/profile"
@@ -53,14 +51,26 @@
 </script>
 
 <script setup>
-  import {ref} from "vue";
+  import { ref, computed, watch } from "vue";
   import Logo from "@/components/Logo.vue";
   import Auth from "@/components/Auth.vue";
-  // завести store получать пользователя или null
-  const user = true;
+  import { useStore } from 'vuex';
+  import useEventsBus from '@/eventBus.js';
+
+  const { bus } = useEventsBus();
+
+  const store = useStore();
+
+  const user = computed(() => store.state.currentUser);
   const dialog = ref(false);
+
+  watch(() => bus.value.get("closeAuthModal"), () => {
+    dialog.value = false;
+  });
+
+  watch(() => bus.value.get("openAuthModal"), () => {
+    dialog.value = true;
+  });
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

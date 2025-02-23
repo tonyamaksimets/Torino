@@ -11,12 +11,12 @@
       </p>
       <br>
       <p>Телефон: {{ user.tel }}</p>
-      <p>День рождения: {{ user.birthDate }}</p>
+      <p>День рождения: {{ user.localeBirthDate }}</p>
 
       <v-divider style="margin: 0.5rem 0;"></v-divider>
 
       <p class="profile__wrapper">
-        <p>Стиль: {{ styles[user.style] || "Не определен" }}</p>
+        <p>Стиль: {{ styles[user.style]?.name || "Не определен" }}</p>
         <v-btn
           to="/test"
           color="var(--primary-color)"
@@ -106,13 +106,18 @@
 </script>
 
 <script setup>
-  import {ref} from 'vue';
-  import users from "@/data/users";
-  import styles from "@/data/styles";
+  import { ref, computed } from 'vue';
+  import { styles } from "@/data/styles";
+  import { useStore } from 'vuex';
+  import { useRouter } from "vue-router";
+
+  const router = useRouter();
+  const store = useStore();
+
+  const user = computed(() => store.state.currentUser);
 
   const dialog = ref(false);
   const dialogIndex = ref(null);
-  const user = ref(users[0]);
 
   const handleCancelClick = (index) => {
     dialog.value = true;
@@ -126,7 +131,8 @@
   }
 
   const handleExitClick = () => {
-    //удалить currentUser
+    store.state.currentUser = null;
+    router.push("/");
   }
 </script>
 

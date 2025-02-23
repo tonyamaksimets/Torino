@@ -18,6 +18,4 @@
   import StylesMenu from "@/components/StylesMenu.vue";
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

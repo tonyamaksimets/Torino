@@ -2007,14 +2007,2020 @@ export const womanAccessories = [
   }
 ];
 
-const manClothes = [
-  
+export const manClothes = [
+    {
+        "article": 80327914,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "classic",
+        "price": 4900,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 86520419,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "classic",
+        "price": 2676,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 71326561,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "classic",
+        "price": 2315,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 57563546,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "artdeco",
+        "price": 3456,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 74146452,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "newmoney",
+        "price": 5200,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 70966886,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "newmoney",
+        "price": 5850,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 93936018,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "classic",
+        "price": 5978,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 49882942,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "newmoney",
+        "price": 4175,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 66965214,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "newmoney",
+        "price": 2599,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 16001309,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "minimalism",
+        "price": 1093,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 29615825,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "artdeco",
+        "price": 1533,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 75305621,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "artdeco",
+        "price": 4589,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 52526791,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "artdeco",
+        "price": 3821,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 32929768,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "oldmoney",
+        "price": 5249,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 52043701,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "newmoney",
+        "price": 5201,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 12800324,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "newmoney",
+        "price": 3821,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 38883938,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "artdeco",
+        "price": 2277,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 21151421,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "artdeco",
+        "price": 5399,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 82657916,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "minimalism",
+        "price": 5791,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 46459823,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "minimalism",
+        "price": 959,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 15032900,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "oldmoney",
+        "price": 2023,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 88510298,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "oldmoney",
+        "price": 1111,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 95877745,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "classic",
+        "price": 4319,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 66150503,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "classic",
+        "price": 2620,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 17001621,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "oldmoney",
+        "price": 920,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 23995204,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "minimalism",
+        "price": 1582,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 40445295,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "oldmoney",
+        "price": 4796,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 45104011,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "newmoney",
+        "price": 4004,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 31545674,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "classic",
+        "price": 4522,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 97134170,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "minimalism",
+        "price": 4036,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 43034018,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "classic",
+        "price": 951,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 77358910,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "classic",
+        "price": 5183,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 58218773,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "oldmoney",
+        "price": 5488,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 74833343,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "minimalism",
+        "price": 3163,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 55932107,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "minimalism",
+        "price": 2107,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 20551265,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "artdeco",
+        "price": 5446,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 46731017,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "newmoney",
+        "price": 3595,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 36466772,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "newmoney",
+        "price": 5605,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 92064187,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "oldmoney",
+        "price": 2232,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 43578400,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "classic",
+        "price": 5588,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 33313661,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "classic",
+        "price": 4463,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 40907136,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "artdeco",
+        "price": 3670,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 95704903,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "oldmoney",
+        "price": 3120,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 12387914,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "minimalism",
+        "price": 500,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 58915990,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "newmoney",
+        "price": 2927,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 78030416,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "oldmoney",
+        "price": 5194,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 70884940,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "oldmoney",
+        "price": 2543,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 24067422,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "classic",
+        "price": 841,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 42527303,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "minimalism",
+        "price": 4743,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 19165060,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "artdeco",
+        "price": 1040,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 75781742,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "oldmoney",
+        "price": 1527,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 54273035,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "minimalism",
+        "price": 4424,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 95625017,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "oldmoney",
+        "price": 4122,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 74593286,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "classic",
+        "price": 5637,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 45015465,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "classic",
+        "price": 4364,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 79407270,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "minimalism",
+        "price": 742,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 86215093,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "oldmoney",
+        "price": 2798,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 95108404,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "newmoney",
+        "price": 1927,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 88039325,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "artdeco",
+        "price": 575,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 25659827,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "minimalism",
+        "price": 4115,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 61190897,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "oldmoney",
+        "price": 2315,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 40631338,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "newmoney",
+        "price": 1561,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 93402497,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "minimalism",
+        "price": 3486,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 12156633,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "oldmoney",
+        "price": 5558,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 80778085,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "oldmoney",
+        "price": 1286,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 41577440,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "artdeco",
+        "price": 4941,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 14474164,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "newmoney",
+        "price": 674,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 93262098,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "artdeco",
+        "price": 1729,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 13702990,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "artdeco",
+        "price": 4690,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 63945555,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "artdeco",
+        "price": 1801,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 67524303,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "artdeco",
+        "price": 4701,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 98240977,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "minimalism",
+        "price": 2818,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 39650651,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "oldmoney",
+        "price": 4523,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 81859071,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "artdeco",
+        "price": 5591,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 45611818,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "classic",
+        "price": 3544,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 90631241,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "artdeco",
+        "price": 2372,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 24503841,
+        "image": "/Torino/assets/images/man/blouse.png",
+        "category": "blouse",
+        "style": "minimalism",
+        "price": 1090,
+        "description": "Рубашка Torino"
+    },
+    {
+        "article": 68020364,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "oldmoney",
+        "price": 4383,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 75537703,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "classic",
+        "price": 5672,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 94843797,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "artdeco",
+        "price": 2008,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 50516116,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "artdeco",
+        "price": 2393,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 90238070,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "minimalism",
+        "price": 2762,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 66650711,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "classic",
+        "price": 820,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 91015863,
+        "image": "/Torino/assets/images/man/sweater.png",
+        "category": "sweater",
+        "style": "artdeco",
+        "price": 2638,
+        "description": "Свитер Torino"
+    },
+    {
+        "article": 86517621,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "minimalism",
+        "price": 567,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 10269135,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "newmoney",
+        "price": 2043,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 24835913,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "classic",
+        "price": 1800,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 59422004,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "newmoney",
+        "price": 1253,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 16444573,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "classic",
+        "price": 1477,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 62590358,
+        "image": "/Torino/assets/images/man/turtleneck.png",
+        "category": "turtleneck",
+        "style": "newmoney",
+        "price": 5563,
+        "description": "Водолазка Torino"
+    },
+    {
+        "article": 80114123,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "newmoney",
+        "price": 4567,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 87749478,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "oldmoney",
+        "price": 5028,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 27616892,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "artdeco",
+        "price": 2910,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 49465738,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "classic",
+        "price": 5728,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 12048379,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "oldmoney",
+        "price": 4437,
+        "description": "Джинсы Torino"
+    },
+    {
+        "article": 52573570,
+        "image": "/Torino/assets/images/man/suit.png",
+        "category": "suit",
+        "style": "minimalism",
+        "price": 5875,
+        "description": "Костюм Torino"
+    },
+    {
+        "article": 85211355,
+        "image": "/Torino/assets/images/man/trousers.png",
+        "category": "trousers",
+        "style": "oldmoney",
+        "price": 595,
+        "description": "Брюки Torino"
+    },
+    {
+        "article": 88429502,
+        "image": "/Torino/assets/images/man/jacket.png",
+        "category": "jacket",
+        "style": "newmoney",
+        "price": 2597,
+        "description": "Пиджак Torino"
+    },
+    {
+        "article": 66163515,
+        "image": "/Torino/assets/images/man/vest.png",
+        "category": "vest",
+        "style": "minimalism",
+        "price": 1045,
+        "description": "Жилет Torino"
+    },
+    {
+        "article": 62204228,
+        "image": "/Torino/assets/images/man/jeans.png",
+        "category": "jeans",
+        "style": "oldmoney",
+        "price": 2637,
+        "description": "Джинсы Torino"
+    }
 ];
 
-const manShoes = [
-  
+export const manShoes = [
+    {
+        "article": 60899565,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "artdeco",
+        "price": 618,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 73042524,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 2018,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 34144330,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "oldmoney",
+        "price": 5452,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 17058193,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "classic",
+        "price": 5573,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 37940020,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "artdeco",
+        "price": 3888,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 24363602,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "minimalism",
+        "price": 2908,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 99412883,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "artdeco",
+        "price": 810,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 94625888,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "classic",
+        "price": 3149,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 35980746,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "artdeco",
+        "price": 4738,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 33526739,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 1379,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 56313460,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "artdeco",
+        "price": 5462,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 52166267,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "newmoney",
+        "price": 1368,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 92317778,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 895,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 70621840,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "classic",
+        "price": 1249,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 26385870,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "minimalism",
+        "price": 1365,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 33639565,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "artdeco",
+        "price": 5984,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 77041558,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "oldmoney",
+        "price": 3554,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 97396484,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "minimalism",
+        "price": 5922,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 10612012,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "oldmoney",
+        "price": 5897,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 19321934,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "classic",
+        "price": 3845,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 26062877,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "newmoney",
+        "price": 5542,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 38314561,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "newmoney",
+        "price": 1650,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 18851126,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "oldmoney",
+        "price": 3915,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 31828786,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "oldmoney",
+        "price": 4624,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 56707408,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "artdeco",
+        "price": 637,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 71953611,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "artdeco",
+        "price": 4162,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 94028889,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "minimalism",
+        "price": 1089,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 51914967,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "classic",
+        "price": 3388,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 71582437,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 946,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 89484177,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "minimalism",
+        "price": 2450,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 37405424,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "classic",
+        "price": 5148,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 87261761,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "newmoney",
+        "price": 4199,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 64433510,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "minimalism",
+        "price": 4878,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 45618164,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "oldmoney",
+        "price": 2275,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 40522388,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "newmoney",
+        "price": 5852,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 96368706,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "minimalism",
+        "price": 2415,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 94591990,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "oldmoney",
+        "price": 4800,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 30782510,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "classic",
+        "price": 5511,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 80612737,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "classic",
+        "price": 2303,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 92708657,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "minimalism",
+        "price": 3236,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 77513560,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "minimalism",
+        "price": 3777,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 91369458,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "artdeco",
+        "price": 4722,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 78326726,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "oldmoney",
+        "price": 4901,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 59660519,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "minimalism",
+        "price": 2023,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 61635791,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "newmoney",
+        "price": 5171,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 52265094,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "newmoney",
+        "price": 1045,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 26176279,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "newmoney",
+        "price": 5883,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 48304739,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "oldmoney",
+        "price": 5418,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 36541879,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "classic",
+        "price": 5444,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 29257540,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "oldmoney",
+        "price": 1045,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 53243108,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "newmoney",
+        "price": 5830,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 69805608,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "classic",
+        "price": 2386,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 12013861,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "newmoney",
+        "price": 4133,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 22408836,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "artdeco",
+        "price": 5009,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 48319098,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "artdeco",
+        "price": 871,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 69131242,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "newmoney",
+        "price": 3568,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 49353887,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "newmoney",
+        "price": 521,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 98243069,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "artdeco",
+        "price": 3636,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 20407121,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 5464,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 13484793,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "newmoney",
+        "price": 5296,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 48789124,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "newmoney",
+        "price": 4527,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 73713234,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "artdeco",
+        "price": 3041,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 49182972,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "newmoney",
+        "price": 1463,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 92639300,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "minimalism",
+        "price": 3717,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 48515016,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "artdeco",
+        "price": 3295,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 27286496,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "classic",
+        "price": 5421,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 85140081,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "newmoney",
+        "price": 2906,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 30707926,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "artdeco",
+        "price": 1021,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 74605920,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "artdeco",
+        "price": 1969,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 72414118,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "oldmoney",
+        "price": 5520,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 23725029,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "minimalism",
+        "price": 2561,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 66331429,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "artdeco",
+        "price": 5074,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 80089389,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "oldmoney",
+        "price": 4149,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 30451061,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "minimalism",
+        "price": 5112,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 72672530,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "oldmoney",
+        "price": 4328,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 14631954,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "minimalism",
+        "price": 5426,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 37569244,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "oldmoney",
+        "price": 987,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 70242233,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "artdeco",
+        "price": 1652,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 66560067,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "artdeco",
+        "price": 1468,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 99463293,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "newmoney",
+        "price": 749,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 93889361,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "oldmoney",
+        "price": 4454,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 42352077,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "oldmoney",
+        "price": 5107,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 97669918,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "classic",
+        "price": 5931,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 60781313,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "minimalism",
+        "price": 4552,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 93071446,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "artdeco",
+        "price": 5364,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 55426461,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "minimalism",
+        "price": 4573,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 51970440,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 1622,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 72324111,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "artdeco",
+        "price": 3332,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 13362866,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "newmoney",
+        "price": 1603,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 49046660,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "oldmoney",
+        "price": 2798,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 93836993,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "classic",
+        "price": 3099,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 44395865,
+        "image": "/Torino/assets/images/man/moccasins.png",
+        "category": "moccasins",
+        "style": "newmoney",
+        "price": 1500,
+        "description": "Мокасины Torino"
+    },
+    {
+        "article": 95434099,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "classic",
+        "price": 4311,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 73687712,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "classic",
+        "price": 5218,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 60608009,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "minimalism",
+        "price": 2977,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 44442173,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "minimalism",
+        "price": 1922,
+        "description": "Туфли Torino"
+    },
+    {
+        "article": 63468655,
+        "image": "/Torino/assets/images/man/shoes.png",
+        "category": "shoes",
+        "style": "newmoney",
+        "price": 5339,
+        "description": "Сапоги Torino"
+    },
+    {
+        "article": 68946378,
+        "image": "/Torino/assets/images/man/boots.png",
+        "category": "boots",
+        "style": "classic",
+        "price": 4829,
+        "description": "Ботинки Torino"
+    },
+    {
+        "article": 11959534,
+        "image": "/Torino/assets/images/man/sneakers.png",
+        "category": "sneakers",
+        "style": "classic",
+        "price": 2587,
+        "description": "Кроссовки Torino"
+    },
+    {
+        "article": 45975054,
+        "image": "/Torino/assets/images/man/heel.png",
+        "category": "heel",
+        "style": "classic",
+        "price": 5822,
+        "description": "Туфли Torino"
+    }
 ];
 
-const manAccessories = [
-  
+export const manAccessories = [
+    {
+        "article": 39637466,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "minimalism",
+        "price": 3018,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 98311976,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "classic",
+        "price": 1812,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 19001139,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "minimalism",
+        "price": 4104,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 91512063,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "newmoney",
+        "price": 5642,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 99077640,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "minimalism",
+        "price": 5952,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 31980634,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "newmoney",
+        "price": 756,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 65332773,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "classic",
+        "price": 5132,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 58119627,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "oldmoney",
+        "price": 4963,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 60177634,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "minimalism",
+        "price": 3684,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 39887248,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "artdeco",
+        "price": 943,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 13631717,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "minimalism",
+        "price": 3102,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 29041786,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "classic",
+        "price": 4351,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 68769463,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "oldmoney",
+        "price": 3321,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 79310479,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "classic",
+        "price": 1461,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 55271479,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "artdeco",
+        "price": 1728,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 87675919,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "minimalism",
+        "price": 2363,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 52398243,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "artdeco",
+        "price": 4918,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 94602594,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "oldmoney",
+        "price": 1091,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 34120321,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "oldmoney",
+        "price": 4629,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 37963178,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "oldmoney",
+        "price": 2239,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 63612233,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "newmoney",
+        "price": 5456,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 97043476,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "minimalism",
+        "price": 1193,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 29062569,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "oldmoney",
+        "price": 3474,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 70626774,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "oldmoney",
+        "price": 4895,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 34697052,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "oldmoney",
+        "price": 906,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 11516229,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "oldmoney",
+        "price": 714,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 17090137,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "classic",
+        "price": 3074,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 89411309,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "oldmoney",
+        "price": 5174,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 14221229,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "minimalism",
+        "price": 4491,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 91312983,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "artdeco",
+        "price": 2060,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 13617829,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "minimalism",
+        "price": 5323,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 50637480,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "minimalism",
+        "price": 3148,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 40110857,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "oldmoney",
+        "price": 3628,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 32718622,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "oldmoney",
+        "price": 1214,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 91654815,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "oldmoney",
+        "price": 2925,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 95459933,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "classic",
+        "price": 2134,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 29992631,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "oldmoney",
+        "price": 2390,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 79138876,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "oldmoney",
+        "price": 5715,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 50773430,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "classic",
+        "price": 4720,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 41263555,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "artdeco",
+        "price": 3396,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 96855367,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "oldmoney",
+        "price": 3343,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 28119900,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "oldmoney",
+        "price": 2537,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 80558975,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "newmoney",
+        "price": 3813,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 93346926,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "artdeco",
+        "price": 2769,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 55861937,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "newmoney",
+        "price": 4370,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 65750924,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "artdeco",
+        "price": 3735,
+        "description": "Браслет Torino"
+    },
+    {
+        "article": 43642031,
+        "image": "/Torino/assets/images/man/hat.png",
+        "category": "hat",
+        "style": "classic",
+        "price": 983,
+        "description": "Шляпа Torino"
+    },
+    {
+        "article": 61816539,
+        "image": "/Torino/assets/images/man/glasses.png",
+        "category": "glasses",
+        "style": "classic",
+        "price": 4711,
+        "description": "Очки Torino"
+    },
+    {
+        "article": 58032719,
+        "image": "/Torino/assets/images/man/bag.png",
+        "category": "bag",
+        "style": "classic",
+        "price": 3282,
+        "description": "Сумка Torino"
+    },
+    {
+        "article": 33548785,
+        "image": "/Torino/assets/images/man/decor.png",
+        "category": "decor",
+        "style": "newmoney",
+        "price": 1768,
+        "description": "Браслет Torino"
+    }
 ];
+
+export const articles = {
+    womanClothes,
+    womanShoes,
+    womanAccessories,
+    manClothes,
+    manShoes,
+    manAccessories
+}

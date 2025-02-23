@@ -1,10 +1,17 @@
 <template>
-  <Logo width="80%" style="margin: auto;"></Logo>
-  <v-card color="var(--primary-color)" class="main__text">
-    <v-card-text color="#ffffff" style="font-size: 20px">
-      «Torino - от людей людям. Мы заботимся о том, чтобы каждый человек смог выглядеть стильно и чувствовать себя при этом комфортно. По нашей особой программе мы предоставляем данную  возможность людям с физическими отклонениями. Команда Torino готова поддержать каждого и выполнять личные заказы для людей с ограниченными возможностями. Чтобы стилисты могли уделять Вам особое внимание, выберите ответ из предложенных»
+  <v-card
+    variant="tonal"
+    color="var(--primary-color)"
+    style="font-size: 1rem; margin: 10px"
+  >
+    <v-card-text style="font-size: 1rem;">
+      Torino - от людей людям. Мы заботимся о том, чтобы каждый человек смог выглядеть стильно и чувствовать себя при этом комфортно.
     </v-card-text>
   </v-card>
+  <Stories/>
+  <Auth v-if="!user"/>
+  <ClothesMenu></ClothesMenu>
+  <Ideas :ideas="ideas"></Ideas>
 </template>
 
 <script>
@@ -14,13 +21,17 @@
 </script>
 
 <script setup>
-import Logo from "@/components/Logo.vue"
+  import { computed } from "vue";
+  import ClothesMenu from "@/components/ClothesMenu.vue";
+  import Ideas from "@/components/Ideas.vue";
+  import { ideas } from "@/data/ideas";
+  import Auth from "@/components/Auth.vue";
+  import Stories from "@/components/Stories.vue";
+  import { useStore } from 'vuex';
+  const store = useStore();
+
+  const user = computed(() => store.state.currentUser);
+
 </script>
 
-<style lang="scss" scoped>
-  .main__text {
-    color: #ffffff;
-    margin: 20px;
-    font-family: 'Yanone'; 
-  }
-</style>
+<style lang="scss" scoped></style>

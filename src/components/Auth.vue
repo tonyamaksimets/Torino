@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card variant="text" style="background-color: #ffffff;">
     <v-card-title style="padding-bottom: 0; text-align: center;">
       <p>Добро пожаловать в Torino!</p>
     </v-card-title>
@@ -13,6 +13,7 @@
             text="Зарегистрируйтесь"
             variant="plain"
             density="compact"
+            @click="emit('closeAuthModal')"
           ></v-btn>
         </p>
 
@@ -46,10 +47,14 @@
 </script>
 
 <script setup>
-  import {ref} from "vue";
+  import { ref } from "vue";
   import users from "@/data/users";
-  // Добавить event bus, при клике на кнопки закрывать модалку
+  import { useStore } from 'vuex';
+  import useEventsBus from '@/eventBus.js';
 
+  const { emit } = useEventsBus();
+
+  const store = useStore();
   const tel = ref("");
   const error = ref(null);
 
@@ -57,15 +62,13 @@
     const tels = users.map(i => i.tel);
 
     if (tels.includes(tel.value)) {
-      //закрыть модалку
-      const user = tels.find(user => user.tel == tel.value);
-      //положить в store.currentUser
+      const user = users.find(user => user.tel == tel.value);
+      store.state.currentUser = user;
+      emit("closeAuthModal");
     } else {
       error.value = "Пользователя с таким телефоном не существует";
     }
   }
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

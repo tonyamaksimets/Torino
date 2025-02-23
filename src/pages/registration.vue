@@ -221,10 +221,10 @@
 </script>
 
 <script setup>
-import {ref} from "vue";
-import { useRouter } from "vue-router";
+import { ref } from "vue";
+import { useStore } from 'vuex';
 
-const router = useRouter()
+const store = useStore();
 
 const step = ref(1);
 const otp = ref();
@@ -257,7 +257,14 @@ const handleSubmitClick = () => {
 }
 
 const handleDoneClick = () => {
-  //назначить currentUser
+  const user = {...form.value};
+  delete user.rules;
+  user.appointments = [];
+  user.cart = [];
+  user.favourite = [];
+  user.initials = user.firstName[0].toUpperCase() + user.lastName[0].toUpperCase();
+  store.state.currentUser = form;
+
   dialog.value = true;
 }
 </script>

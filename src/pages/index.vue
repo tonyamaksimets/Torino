@@ -12,6 +12,5 @@
   import Main from "@/components/Main.vue";
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" scoped></style>
 
-</style>

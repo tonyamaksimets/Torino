@@ -10,10 +10,10 @@
       </template>
 
       <v-list-item
-        v-for="sub in stylesMenu.subcategory"
-        :key="sub.name"
-        :title="sub.name"
-        :to="`/style?style=${sub.link}`"
+        v-for="category in stylesMenu.categories"
+        :key="category[0]"
+        :title="category[1].name"
+        :to="`/style?style=${category[0]}`"
       ></v-list-item>
 
       <v-list-group value="Все стили">
@@ -38,21 +38,15 @@
 </script>
 
 <script setup>
-import {ref} from 'vue';
+import { ref } from 'vue';
 import ClothesMenu from "@/components/ClothesMenu.vue";
+import { styles } from "@/data/styles";
 
 const isOpen = ref(["Стили"]);
 const stylesMenu = {
   name: "Стили",
-  subcategory: [
-    {name: "Классика", link: "classic"},
-    {name: "Минимализм", link: "minimalism"},
-    {name: "Арт-деко", link: "artdeco"},
-    {name: "Old money",link: "oldmoney"},
-    {name: "New money", link: "newmoney"},
-  ],
+  categories: Object.entries(styles),
 }
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
