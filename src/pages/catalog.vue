@@ -22,7 +22,7 @@
   const breadcrumbs = ref([]);
 
   const params = new URL(document.location.href).searchParams;
-  const style = styles[params.get('style')].name;
+  const style = styles[params.get('style')]?.name;
 
   if (style) breadcrumbs.value.push(style);
 
