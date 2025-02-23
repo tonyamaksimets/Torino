@@ -263,7 +263,7 @@ const handleDoneClick = () => {
   user.cart = [];
   user.favourite = [];
   user.initials = user.firstName[0].toUpperCase() + user.lastName[0].toUpperCase();
-  store.state.currentUser = form;
+  store.state.currentUser = user;
 
   dialog.value = true;
 }
