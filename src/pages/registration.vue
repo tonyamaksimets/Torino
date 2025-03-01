@@ -31,7 +31,7 @@
       <v-stepper-window-item :value="1">
         <v-form fast-fail @submit.prevent style="padding: 0 0 1rem">
           <v-text-field
-            v-model="form.firstName"
+            v-model="form.firstname"
             :rules="form.rules"
             label="Имя"
             color="var(--primary-color)"
@@ -40,7 +40,7 @@
           ></v-text-field>
 
           <v-text-field
-            v-model="form.lastName"
+            v-model="form.lastname"
             :rules="form.rules"
             label="Фамилия"
             color="var(--primary-color)"
@@ -231,8 +231,8 @@ const otp = ref();
 const dialog = ref(false);
 
 const form = ref({
-  firstName: "",
-  lastName: "",
+  firstname: "",
+  lastname: "",
   tel: "",
   gender: "woman",
   birthDate: null,
@@ -262,7 +262,7 @@ const handleDoneClick = () => {
   user.appointments = [];
   user.cart = [];
   user.favourite = [];
-  user.initials = user.firstName[0].toUpperCase() + user.lastName[0].toUpperCase();
+  user.initials = user.firstname[0].toUpperCase() + user.lastname[0].toUpperCase();
   store.state.currentUser = user;
 
   dialog.value = true;
