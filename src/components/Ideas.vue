@@ -3,7 +3,7 @@
     <p>Идеи</p>
     <v-divider thickness="2" color="var(--primary-color)"></v-divider>
   </v-card-title>
-  <v-expansion-panels v-model="panel" hideActions style="margin: 20px; width: calc(100% - 40px)">
+  <v-expansion-panels v-model="panel" hideActions style="margin: 20px 10px; width: calc(100% - 20px)">
     <IdeaCard
       v-for="(idea, index) in ideas"
       :key="index"

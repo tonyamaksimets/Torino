@@ -38,13 +38,14 @@
           <div style="display: flex">
             <v-icon color="var(--primary-color)">mdi-circle-small</v-icon>
             <div>
-              <p>{{ user.appointments[index].date }}, {{ user.appointments[index].time }}</p>
+              <p>{{ new Date(user.appointments[index].date ).toLocaleString("ru-Ru", { year: "numeric", month: "long", day: "numeric" }) }},
+                 {{ user.appointments[index].time }}</p>
               <p>{{ user.appointments[index].stylist }}</p>
             </div>
           </div>
           <div style="display: flex">
             <v-btn
-              to="/stylist"
+              :to="`/appointment?id=${user.appointments[index].id}&&stylist=${user.appointments[index].stylist}`"
               color="var(--primary-color)"
               text="Перенести"
               variant="tonal"

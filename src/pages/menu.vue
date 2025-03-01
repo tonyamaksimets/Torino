@@ -3,7 +3,7 @@
   <v-divider thickness="2" color="var(--primary-color)"></v-divider>
   <v-list-item
     title="Онлайн стилист"
-    :to="`/stylist`"
+    :to="`/stylists`"
   ></v-list-item>
 
 </template>

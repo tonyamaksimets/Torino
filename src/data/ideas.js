@@ -4,7 +4,7 @@ export const ideas = [
         articles: [
             {
                 "article": 66459764,
-                "image": "/Torino/assets/images/woman/sweater.png",
+                "image": "/assets/images/woman/sweater.png",
                 "category": "sweater",
                 "style": "minimalism",
                 "price": 3612,
@@ -12,7 +12,7 @@ export const ideas = [
             },
             {
                 "article": 27320122,
-                "image": "/Torino/assets/images/woman/skirt.png",
+                "image": "/assets/images/woman/skirt.png",
                 "category": "skirt",
                 "style": "classic",
                 "price": 3348,
@@ -20,7 +20,7 @@ export const ideas = [
             },
             {
                 "article": 97731605,
-                "image": "/Torino/assets/images/woman/sneakers.png",
+                "image": "/assets/images/woman/sneakers.png",
                 "category": "sneakers",
                 "style": "newmoney",
                 "price": 5865,
@@ -28,7 +28,7 @@ export const ideas = [
             },
             {
                 "article": 30178090,
-                "image": "/Torino/assets/images/woman/glasses.png",
+                "image": "/assets/images/woman/glasses.png",
                 "category": "glasses",
                 "style": "artdeco",
                 "price": 5010,
@@ -36,7 +36,7 @@ export const ideas = [
             },
             {
                 "article": 77634570,
-                "image": "/Torino/assets/images/woman/decor.png",
+                "image": "/assets/images/woman/decor.png",
                 "category": "decor",
                 "style": "artdeco",
                 "price": 5901,
@@ -49,7 +49,7 @@ export const ideas = [
         articles: [
             {
                 "article": 63899613,
-                "image": "/Torino/assets/images/woman/suit.png",
+                "image": "/assets/images/woman/suit.png",
                 "category": "suit",
                 "style": "minimalism",
                 "price": 1136,
@@ -57,7 +57,7 @@ export const ideas = [
             },
             {
                 "article": 93845024,
-                "image": "/Torino/assets/images/woman/cossacks.png",
+                "image": "/assets/images/woman/cossacks.png",
                 "category": "cossacks",
                 "style": "minimalism",
                 "price": 2069,
@@ -65,7 +65,7 @@ export const ideas = [
             },
             {
                 "article": 30178090,
-                "image": "/Torino/assets/images/woman/glasses.png",
+                "image": "/assets/images/woman/glasses.png",
                 "category": "glasses",
                 "style": "artdeco",
                 "price": 5010,
@@ -73,7 +73,7 @@ export const ideas = [
             },
             {
                 "article": 71184288,
-                "image": "/Torino/assets/images/woman/hat.png",
+                "image": "/assets/images/woman/hat.png",
                 "category": "hat",
                 "style": "newmoney",
                 "price": 3070,
@@ -86,7 +86,7 @@ export const ideas = [
         articles: [
             {
                 "article": 66965214,
-                "image": "/Torino/assets/images/man/suit.png",
+                "image": "/assets/images/man/suit.png",
                 "category": "suit",
                 "style": "newmoney",
                 "price": 2599,
@@ -94,7 +94,7 @@ export const ideas = [
             },
             {
                 "article": 17058193,
-                "image": "/Torino/assets/images/man/shoes.png",
+                "image": "/assets/images/man/shoes.png",
                 "category": "shoes",
                 "style": "classic",
                 "price": 5573,
@@ -102,7 +102,7 @@ export const ideas = [
             },
             {
                 "article": 91512063,
-                "image": "/Torino/assets/images/man/glasses.png",
+                "image": "/assets/images/man/glasses.png",
                 "category": "glasses",
                 "style": "newmoney",
                 "price": 5642,
@@ -110,7 +110,7 @@ export const ideas = [
             },
             {
                 "article": 33548785,
-                "image": "/Torino/assets/images/man/decor.png",
+                "image": "/assets/images/man/decor.png",
                 "category": "decor",
                 "style": "newmoney",
                 "price": 1768,

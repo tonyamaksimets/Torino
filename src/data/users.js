@@ -1,8 +1,8 @@
 export default [
   {
     firstname: "Антонина",
-    lastname: "Берг",
-    initials: "АБ",
+    lastname: "Иванова",
+    initials: "АИ",
     tel: "333333",
     hasDisabilities: false,
     style: "classic",
@@ -11,20 +11,22 @@ export default [
     birthDate: "12.02.1996",
     appointments: [
       {
+        id: 333654,
         time: "14:00",
-        date: "15 марта 2025",
+        date: "2025-03-29T00:00:00.000Z",
         stylist: "Марина"
       },
       {
+        id: 653820,
         time: "12:00",
-        date: "17 марта 2025",
+        date: "2025-03-26T00:00:00.000Z",
         stylist: "Павел"
       },
     ],
     cart: [
       {
           "article": 11516229,
-          "image": "/Torino/assets/images/man/decor.png",
+          "image": "/assets/images/man/decor.png",
           "category": "decor",
           "style": "oldmoney",
           "price": 714,
@@ -32,7 +34,7 @@ export default [
       },
       {
           "article": 17090137,
-          "image": "/Torino/assets/images/man/hat.png",
+          "image": "/assets/images/man/hat.png",
           "category": "hat",
           "style": "classic",
           "price": 3074,
@@ -40,7 +42,7 @@ export default [
       },
       {
           "article": 89411309,
-          "image": "/Torino/assets/images/man/bag.png",
+          "image": "/assets/images/man/bag.png",
           "category": "bag",
           "style": "oldmoney",
           "price": 5174,
@@ -50,7 +52,7 @@ export default [
     favourite: [
       {
         "article": 11217430,
-        "image": "/Torino/assets/images/woman/sweater.png",
+        "image": "/assets/images/woman/sweater.png",
         "category": "sweater",
         "style": "minimalism",
         "price": 5956,
@@ -58,7 +60,7 @@ export default [
       },
       {
           "article": 12744144,
-          "image": "/Torino/assets/images/woman/jeans.png",
+          "image": "/assets/images/woman/jeans.png",
           "category": "jeans",
           "style": "artdeco",
           "price": 5974,
@@ -66,7 +68,7 @@ export default [
       },
       {
           "article": 97698763,
-          "image": "/Torino/assets/images/woman/trousers.png",
+          "image": "/assets/images/woman/trousers.png",
           "category": "trousers",
           "style": "minimalism",
           "price": 2548,
@@ -74,7 +76,7 @@ export default [
       },
       {
           "article": 39434725,
-          "image": "/Torino/assets/images/woman/suit.png",
+          "image": "/assets/images/woman/suit.png",
           "category": "suit",
           "style": "artdeco",
           "price": 5839,
@@ -82,7 +84,7 @@ export default [
       },
       {
           "article": 30276456,
-          "image": "/Torino/assets/images/woman/sweater.png",
+          "image": "/assets/images/woman/sweater.png",
           "category": "sweater",
           "style": "classic",
           "price": 5405,
@@ -90,7 +92,7 @@ export default [
       },
       {
           "article": 54180194,
-          "image": "/Torino/assets/images/woman/skirt.png",
+          "image": "/assets/images/woman/skirt.png",
           "category": "skirt",
           "style": "classic",
           "price": 5822,
@@ -98,7 +100,7 @@ export default [
       },
       {
           "article": 38041000,
-          "image": "/Torino/assets/images/woman/dress.png",
+          "image": "/assets/images/woman/dress.png",
           "category": "dress",
           "style": "artdeco",
           "price": 1316,
@@ -106,7 +108,7 @@ export default [
       },
       {
           "article": 20870867,
-          "image": "/Torino/assets/images/woman/skirt.png",
+          "image": "/assets/images/woman/skirt.png",
           "category": "skirt",
           "style": "oldmoney",
           "price": 2988,
@@ -114,7 +116,7 @@ export default [
       },
       {
           "article": 28992914,
-          "image": "/Torino/assets/images/woman/turtleneck.png",
+          "image": "/assets/images/woman/turtleneck.png",
           "category": "turtleneck",
           "style": "oldmoney",
           "price": 606,
@@ -122,7 +124,7 @@ export default [
       },
       {
           "article": 80208090,
-          "image": "/Torino/assets/images/woman/sweater.png",
+          "image": "/assets/images/woman/sweater.png",
           "category": "sweater",
           "style": "oldmoney",
           "price": 802,
@@ -132,8 +134,8 @@ export default [
   },
   {
     firstname: "Руслан",
-    lastname: "Ребров",
-    initials: "РР",
+    lastname: "Петров",
+    initials: "РП",
     tel: "222222",
     hasDisabilities: false,
     style: "",
